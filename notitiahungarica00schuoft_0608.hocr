@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./notitiahungarica00schuoft_0608.png"; bbox 0 0 2982 3848; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 851 2300 1409 2423">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 851 2291 1409 2423">
+     <span class='ocr_line' id='line_1_1' title="bbox 851 2300 1355 2364; baseline -0.121 44"><span class='ocrx_word' id='word_1_1' title='bbox 851 2318 980 2364; x_wconf 55' lang='lat' dir='ltr'><strong><em>W</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 987 2318 994 2331; x_wconf 71' lang='lat'><strong>&#39;⁷</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 999 2307 1116 2356; x_wconf 35' lang='lat' dir='ltr'><strong>*mu</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1123 2320 1146 2353; x_wconf 17' lang='grc' dir='ltr'><strong>ἡ*</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1152 2335 1156 2345; x_wconf 77' lang='lat'><em>⁴</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1163 2300 1355 2358; x_wconf 36' lang='lat' dir='ltr'><strong>:ff&#39;ffim-ss}</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 917 2347 1409 2423; baseline -0.13 -5"><span class='ocrx_word' id='word_1_7' title='bbox 917 2363 1101 2423; x_wconf 32' lang='grc' dir='ltr'><strong>Ϋᾎῗῖ-,ίέῇῄ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1111 2370 1127 2393; x_wconf 50' lang='lat'><strong>⁶2</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1136 2372 1191 2411; x_wconf 55' lang='lat'><strong>&amp;⁵¹⁹⁴</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1209 2366 1286 2393; x_wconf 54' lang='lat'><strong>&gt;¹</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1295 2370 1320 2403; x_wconf 19' lang='lat' dir='ltr'><strong>[v</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1405 2347 1409 2354; x_wconf 94' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 56 0 2982 3846">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 56 0 2982 3846">
+     <span class='ocr_line' id='line_1_3' title="bbox 56 0 2982 3846; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 56 0 2982 3846; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
